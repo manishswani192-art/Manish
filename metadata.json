@@ -1,0 +1,6 @@
+{
+  "name": "VidShare",
+  "description": "Upload, discover, and watch community videos with seamless playback and offline downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
